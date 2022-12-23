@@ -13,4 +13,5 @@ flutter_janus_client.iml
 example/build/ios
 example/build/flutter_assets
 example/.flutter-plugins-dependencies
+.flutter-plugins
 .flutter-plugins-dependencies
